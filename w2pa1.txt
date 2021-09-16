@@ -1,3 +1,5 @@
+#Accept a non 0 value as input. Print 'Positive' if the value is >0.
+#Print 'Negative' if the value is <0
 n=int(input('Enter an integer other than 0 :'))
 if n<0:
   print('Negative')
