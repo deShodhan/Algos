@@ -1,0 +1,7 @@
+x=float(input('Enter value of x :'))
+if 0<x<10:
+  print(x+2)
+if 10<=x:
+  print(pow(x,2)+2)  
+if x<0:
+  print(0)    
